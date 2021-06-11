@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katrin-ibrahim
 - 👀 I’m interested in full-stack development
-- 💞️ I’m looking to collaborate on full-stack projects focusing on ffront-end
+- 💞️ I’m looking to collaborate on full-stack projects focusing on front-end
 - 📫 How to reach me : katrinemadfathy@gmail.com
 
 <!---
