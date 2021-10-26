@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katrin-ibrahim
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in full-stack web development
 - 💞️ I’m looking to collaborate on full-stack projects focusing on front-end
 - 📫 How to reach me : katrinemadfathy@gmail.com
 
